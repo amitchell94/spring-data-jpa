@@ -16,7 +16,7 @@ In order to execute this program you will need have the Java JDK installed.
 
 ## Running the Application
 
-The application can be run by packaging everything in a single, executable JAR file, driven by a Java `main()` method. Spring's support for embedding the Tomcat servlet container as the HTTP runtime can be used instead of deploying to an external instance.
+The application can be run by packaging everything in a single, executable JAR file, driven by a Java `main()` method. 
 
 After running the application, you should see something like this:
 ```
