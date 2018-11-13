@@ -1,7 +1,7 @@
 # Spring Data JPA
 A skeleton project to demo using Spring Data JPA to store and retrieve data in a relational database.
 
-The application stores Customer POJOs in a memory-based database.
+The application stores Customer POJOs in a memory-based h2 database.
 
 ## Getting Started
 
